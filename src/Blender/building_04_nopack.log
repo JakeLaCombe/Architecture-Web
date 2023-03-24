@@ -1,0 +1,368 @@
+Exporter version: 3.3.1, Blender version: 3.4.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  STD
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\jakel\Documents\BabylonProjects\Architecture-Web\src\Blender\materials_house
+	Python World class constructor completed
+	processing begun of mesh:  gutters.003
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture gutters_003_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 2.3989 secs
+		num positions      :  377
+		num normals        :  377
+		num tangents       :  0
+		num uvs            :  754
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  272
+	processing begun of mesh:  terrace
+		processing begun of material:  foundation_grey_brick
+		processing begun of material:  curb
+		processing begun of multimaterial:  building_04_nopack.Multimaterial#0
+		num positions      :  249
+		num normals        :  249
+		num tangents       :  0
+		num uvs            :  498
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  102
+	processing begun of mesh:  gutters.002
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture gutters_002_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 2.307 secs
+		num positions      :  2855
+		num normals        :  2855
+		num tangents       :  0
+		num uvs            :  5710
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2288
+	processing begun of mesh:  chimney
+		processing begun of material:  plaster_grey
+		num positions      :  1936
+		num normals        :  1936
+		num tangents       :  0
+		num uvs            :  3872
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  820
+	processing begun of mesh:  eneter_floor
+		processing begun of material:  curb
+		registered as also a user of material:  curb
+		num positions      :  58
+		num normals        :  58
+		num tangents       :  0
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  boards.001
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+		processing begun of material:  wood_balls_brown
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture boards_001_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture boards_001_baked_GLOSSY
+			specular channel baked
+			bake time:  0 min, 5.4789 secs
+		num positions      :  464
+		num normals        :  464
+		num tangents       :  0
+		num uvs            :  928
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  204
+	processing begun of mesh:  boards
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+		processing begun of material:  wood_balls_brown
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture boards_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture boards_baked_GLOSSY
+			specular channel baked
+			bake time:  0 min, 6.6619 secs
+		num positions      :  238
+		num normals        :  238
+		num tangents       :  0
+		num uvs            :  476
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  102
+	processing begun of mesh:  roof_plate
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture roof_plate_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 2.765 secs
+		num positions      :  548
+		num normals        :  548
+		num tangents       :  0
+		num uvs            :  1096
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  228
+	processing begun of mesh:  roof
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture roof_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 4.5051 secs
+		num positions      :  4284
+		num normals        :  4284
+		num tangents       :  0
+		num uvs            :  8568
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1756
+	processing begun of mesh:  barrels
+		processing begun of material:  window_glass
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture barrels_baked_GLOSSY
+			specular channel baked
+			bake time:  0 min, 2.6975 secs
+		num positions      :  12787
+		num normals        :  12787
+		num tangents       :  0
+		num uvs            :  25574
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5760
+	processing begun of mesh:  metal_cover
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture metal_cover_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 2.7539 secs
+		num positions      :  476
+		num normals        :  476
+		num tangents       :  0
+		num uvs            :  952
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of mesh:  balcony
+		processing begun of material:  plaster_white
+		processing begun of material:  plate_white
+		processing begun of multimaterial:  building_04_nopack.Multimaterial#1
+		num positions      :  1335
+		num normals        :  1335
+		num tangents       :  0
+		num uvs            :  2670
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  624
+	processing begun of mesh:  building_walls
+		processing begun of material:  plaster_white
+		processing begun of material:  foundation_grey_brick
+		registered as also a user of material:  plaster_white
+		registered as also a user of material:  foundation_grey_brick
+		processing begun of multimaterial:  building_04_nopack.Multimaterial#2
+		num positions      :  4547
+		num normals        :  4547
+		num tangents       :  0
+		num uvs            :  9094
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2289
+	processing begun of mesh:  foundation_wall
+		processing begun of material:  foundation_grey_brick
+		registered as also a user of material:  foundation_grey_brick
+		num positions      :  2115
+		num normals        :  2115
+		num tangents       :  0
+		num uvs            :  4230
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  910
+	processing begun of mesh:  window.005
+		processing begun of material:  wood_brown
+		processing begun of material:  window_glass
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+		processing begun of material:  parapet
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture window_005_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture window_005_baked_GLOSSY
+			specular channel baked
+			bake time:  0 min, 10.0179 secs
+		num positions      :  42374
+		num normals        :  42374
+		num tangents       :  0
+		num uvs            :  84748
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18404
+	processing begun of mesh:  door_enter
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+		processing begun of material:  window_glass
+		processing begun of material:  wood_brown
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture door_enter_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture door_enter_baked_GLOSSY
+			specular channel baked
+			bake time:  0 min, 6.4079 secs
+		num positions      :  789
+		num normals        :  789
+		num tangents       :  0
+		num uvs            :  1578
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  600
+	processing begun of mesh:  window_roof
+		processing begun of material:  wood_brown
+		processing begun of material:  foundation_grey_brick
+		registered as also a user of material:  foundation_grey_brick
+		processing begun of multimaterial:  building_04_nopack.Multimaterial#3
+		num positions      :  101
+		num normals        :  101
+		num tangents       :  0
+		num uvs            :  202
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  barrels_front
+		processing begun of material:  metal_grey
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture barrels_front_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 2.1917 secs
+		num positions      :  1046
+		num normals        :  1046
+		num tangents       :  0
+		num uvs            :  2092
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  772
+	processing begun of mesh:  ground_grass
+		processing begun of material:  grass_ground
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture ground_grass_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.8363 secs
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Floor 1
+		WARNING: No materials have been assigned: 
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  Stairs 1
+		WARNING: No materials have been assigned: 
+		num positions      :  618
+		num normals        :  618
+		num tangents       :  0
+		num uvs            :  1236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  236
+	processing begun of mesh:  Floor 2
+		WARNING: No materials have been assigned: 
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  Stairs 3
+		WARNING: No materials have been assigned: 
+		num positions      :  618
+		num normals        :  618
+		num tangents       :  0
+		num uvs            :  1236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  236
+	processing begun of mesh:  Floor 3
+		WARNING: No materials have been assigned: 
+		num positions      :  16
+		num normals        :  16
+		num tangents       :  0
+		num uvs            :  32
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+	processing begun of mesh:  Stairs 2
+		WARNING: No materials have been assigned: 
+		num positions      :  618
+		num normals        :  618
+		num tangents       :  0
+		num uvs            :  1236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  236
+========= Writing of JSON file started =========
+	writing mesh:  gutters.003
+	writing mesh:  terrace
+	writing mesh:  gutters.002
+	writing mesh:  chimney
+	writing mesh:  eneter_floor
+	writing mesh:  boards.001
+	writing mesh:  boards
+	writing mesh:  roof_plate
+	writing mesh:  roof
+	writing mesh:  barrels
+	writing mesh:  metal_cover
+	writing mesh:  balcony
+	writing mesh:  building_walls
+	writing mesh:  foundation_wall
+	writing mesh:  window.005
+	writing mesh:  door_enter
+	writing mesh:  window_roof
+	writing mesh:  barrels_front
+	writing mesh:  ground_grass
+	writing mesh:  Floor 1
+	writing mesh:  Stairs 1
+	writing mesh:  Floor 2
+	writing mesh:  Stairs 3
+	writing mesh:  Floor 3
+	writing mesh:  Stairs 2
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 52.7671 secs
