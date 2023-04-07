@@ -1,12 +1,9 @@
 import "@babylonjs/core/Debug/debugLayer";
 
-import { ArcRotateCamera } from "@babylonjs/core/Cameras/arcRotateCamera";
 import { Engine } from "@babylonjs/core/Engines/engine";
 import { HemisphericLight } from "@babylonjs/core/Lights/hemisphericLight";
 import { MeshBuilder } from "@babylonjs/core/Meshes/meshBuilder";
-import { Scene } from "@babylonjs/core/scene";
 import { Vector3 } from "@babylonjs/core/Maths/math.vector";
-
 import { SampleMaterial } from "./Materials/SampleMaterial";
 import { Mesh, SceneLoader, UniversalCamera } from "@babylonjs/core";
 import GalleryScene from "./Blender/building_04_nopack.babylon";
@@ -36,7 +33,7 @@ class App {
     );
     camera.target = new Vector3(-15, 0, 21);
     camera.attachControl(true);
-    camera.applyGravity = true;
+    // camera.applyGravity = true;
     camera.ellipsoid = new Vector3(1, 1, 1);
 
     const assumedFramesPerSecond = 60;
@@ -49,6 +46,7 @@ class App {
         scene.getNodeByID("Stairs 1") as Mesh,
         scene.getNodeByID("Stairs 2") as Mesh,
         scene.getNodeByID("Stairs 3") as Mesh,
+        scene.getNodeByID("Floor 0") as Mesh,
         scene.getNodeByID("Floor 1") as Mesh,
         scene.getNodeByID("Floor 2") as Mesh,
         scene.getNodeByID("Floor 3") as Mesh,

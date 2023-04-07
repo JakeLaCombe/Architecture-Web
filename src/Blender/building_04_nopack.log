@@ -17,7 +17,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture gutters_003_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 2.3989 secs
+			bake time:  0 min, 2.6539 secs
 		num positions      :  377
 		num normals        :  377
 		num tangents       :  0
@@ -42,7 +42,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture gutters_002_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 2.307 secs
+			bake time:  0 min, 2.5627 secs
 		num positions      :  2855
 		num normals        :  2855
 		num tangents       :  0
@@ -82,7 +82,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: GLOSSY, mapped using: BakingUV
 			processing texture boards_001_baked_GLOSSY
 			specular channel baked
-			bake time:  0 min, 5.4789 secs
+			bake time:  0 min, 5.9471 secs
 		num positions      :  464
 		num normals        :  464
 		num tangents       :  0
@@ -102,7 +102,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: GLOSSY, mapped using: BakingUV
 			processing texture boards_baked_GLOSSY
 			specular channel baked
-			bake time:  0 min, 6.6619 secs
+			bake time:  0 min, 6.2832 secs
 		num positions      :  238
 		num normals        :  238
 		num tangents       :  0
@@ -116,7 +116,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture roof_plate_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 2.765 secs
+			bake time:  0 min, 2.5735 secs
 		num positions      :  548
 		num normals        :  548
 		num tangents       :  0
@@ -130,7 +130,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture roof_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 4.5051 secs
+			bake time:  0 min, 4.0363 secs
 		num positions      :  4284
 		num normals        :  4284
 		num tangents       :  0
@@ -146,7 +146,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: GLOSSY, mapped using: BakingUV
 			processing texture barrels_baked_GLOSSY
 			specular channel baked
-			bake time:  0 min, 2.6975 secs
+			bake time:  0 min, 2.6284 secs
 		num positions      :  12787
 		num normals        :  12787
 		num tangents       :  0
@@ -160,7 +160,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture metal_cover_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 2.7539 secs
+			bake time:  0 min, 2.7816 secs
 		num positions      :  476
 		num normals        :  476
 		num tangents       :  0
@@ -215,7 +215,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: GLOSSY, mapped using: BakingUV
 			processing texture window_005_baked_GLOSSY
 			specular channel baked
-			bake time:  0 min, 10.0179 secs
+			bake time:  0 min, 9.4081 secs
 		num positions      :  42374
 		num normals        :  42374
 		num tangents       :  0
@@ -223,26 +223,6 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  18404
-	processing begun of mesh:  door_enter
-		processing begun of material:  metal_grey
-			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
-		processing begun of material:  window_glass
-		processing begun of material:  wood_brown
-			WARNING: Roughness channel baking required, but not possible, ignored
-			Baking texture, type: DIFFUSE, mapped using: BakingUV
-			processing texture door_enter_baked_DIFFUSE
-			Diffuse / albeto channel baked
-			Baking texture, type: GLOSSY, mapped using: BakingUV
-			processing texture door_enter_baked_GLOSSY
-			specular channel baked
-			bake time:  0 min, 6.4079 secs
-		num positions      :  789
-		num normals        :  789
-		num tangents       :  0
-		num uvs            :  1578
-		num uvs2           :  0
-		num colors         :  0
-		num triangles      :  600
 	processing begun of mesh:  window_roof
 		processing begun of material:  wood_brown
 		processing begun of material:  foundation_grey_brick
@@ -261,7 +241,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture barrels_front_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 2.1917 secs
+			bake time:  0 min, 2.273 secs
 		num positions      :  1046
 		num normals        :  1046
 		num tangents       :  0
@@ -275,7 +255,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 			Baking texture, type: DIFFUSE, mapped using: UVMap
 			processing texture ground_grass_baked_DIFFUSE
 			Diffuse / albeto channel baked
-			bake time:  0 min, 1.8363 secs
+			bake time:  0 min, 2.2435 secs
 		num positions      :  30
 		num normals        :  30
 		num tangents       :  0
@@ -284,14 +264,14 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 		num colors         :  0
 		num triangles      :  12
 	processing begun of mesh:  Floor 1
-		WARNING: No materials have been assigned: 
-		num positions      :  16
-		num normals        :  16
+		processing begun of material:  Floor
+		num positions      :  126
+		num normals        :  126
 		num tangents       :  0
-		num uvs            :  32
+		num uvs            :  252
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  16
+		num triangles      :  64
 	processing begun of mesh:  Stairs 1
 		WARNING: No materials have been assigned: 
 		num positions      :  618
@@ -302,14 +282,15 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 		num colors         :  0
 		num triangles      :  236
 	processing begun of mesh:  Floor 2
-		WARNING: No materials have been assigned: 
-		num positions      :  16
-		num normals        :  16
+		processing begun of material:  Floor
+		registered as also a user of material:  Floor
+		num positions      :  126
+		num normals        :  126
 		num tangents       :  0
-		num uvs            :  32
+		num uvs            :  252
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  16
+		num triangles      :  64
 	processing begun of mesh:  Stairs 3
 		WARNING: No materials have been assigned: 
 		num positions      :  618
@@ -320,14 +301,15 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 		num colors         :  0
 		num triangles      :  236
 	processing begun of mesh:  Floor 3
-		WARNING: No materials have been assigned: 
-		num positions      :  16
-		num normals        :  16
+		processing begun of material:  Floor
+		registered as also a user of material:  Floor
+		num positions      :  125
+		num normals        :  125
 		num tangents       :  0
-		num uvs            :  32
+		num uvs            :  250
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  16
+		num triangles      :  64
 	processing begun of mesh:  Stairs 2
 		WARNING: No materials have been assigned: 
 		num positions      :  618
@@ -337,6 +319,16 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  236
+	processing begun of mesh:  Floor 0
+		processing begun of material:  Floor
+		registered as also a user of material:  Floor
+		num positions      :  126
+		num normals        :  126
+		num tangents       :  0
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  64
 ========= Writing of JSON file started =========
 	writing mesh:  gutters.003
 	writing mesh:  terrace
@@ -353,7 +345,6 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 	writing mesh:  building_walls
 	writing mesh:  foundation_wall
 	writing mesh:  window.005
-	writing mesh:  door_enter
 	writing mesh:  window_roof
 	writing mesh:  barrels_front
 	writing mesh:  ground_grass
@@ -363,6 +354,7 @@ Exporter version: 3.3.1, Blender version: 3.4.1
 	writing mesh:  Stairs 3
 	writing mesh:  Floor 3
 	writing mesh:  Stairs 2
+	writing mesh:  Floor 0
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 52.7671 secs
+elapsed time:  0 min, 46.582 secs
